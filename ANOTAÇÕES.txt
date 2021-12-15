@@ -1,0 +1,42 @@
+# Quem pode programar?
+
+Qualquer pessoa que decidir empenhar tempo e dedicação na prática necessária para desenvolvimento da habilidade de programar.
+
+# 
+
+# A plataforma da Web
+
+Plataforma é a linguagem de programação que o site utiliza e precisa ser escolhida pelo programador.
+
+A web funciona através de um modelo cliente e servidor, onde:
+
+- O cliente acessa os recursos através de uma url em um programa específico que renderiza o código enviado pelos servidores.
+- Esse programa específico, normalmente é o navegador, que roda nativamente em linguagem JavaScript, que é enviado pelos servidores junto com HTML E CSS (tecnologias front-end).
+- No servidor rodam linguagens capazes de criar respostas HTTP (por exemplo o site StackOverflow)
+
+
+
+# Conhecendo JavaScript (JS)
+
+É uma linguagem baseada em texto, que funciona ao lado de HTML e CSS, para aprimorar o código e adicionar elementos interativos.
+
+Em HTML, incorpora-se o código de JS com a tag <script>
+
+JS é executado diretamente no navegador, por isso se torna mais leve e rápido.
+
+# Conhecendo o VS Code
+
+Visual Studio Code é uma plataforma utilizada para programar JS. 
+
+É um editor de texto criado pela Microsoft, suporta várias linguagens como Java, C++ e Python, entre outras.
+
+Permite mais interação que outros editores de texto.
+
+É dividido em 5 regiões principais:
+
+- A barra de atividades
+- A barra lateral
+- Grupos de editores
+- O painel
+- A barra de status
+
